@@ -8,7 +8,7 @@ An management app developed using Winforms C#, Entity Framework
 + Windows Forms C#
 
 # features
-Server-Side Features:
+- Server-Side Features:
 + Employee Management: Track employee details, schedules.
 + Shift Management: Efficiently plan and manage employee shifts.
 + Service Management: Manage food, drink and card.
@@ -19,7 +19,7 @@ Server-Side Features:
 + Response Management: Handle customer queries, complaints, and feedback.
 + News Creation: Keep customers informed about the latest updates and offers.
 + App Management: Manage the applications available for use within the café.
-Client-Side Features:
+- Client-Side Features:
 + Feedback Response: Customers can share their feedback directly through the app.
 + Food and Drink Ordering: Customers can conveniently order food and drinks from their stations.
 + Game Access: Customers can access and play a variety of games.
