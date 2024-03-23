@@ -1,6 +1,8 @@
 # internet_cafe
 An management app developed using Winforms C#, Entity Framework
 
+# Link to client side: https://github.com/ThanhVViet/client
+
 # used technologies
 
 + SQL Server
